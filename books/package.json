@@ -11,6 +11,10 @@
     "build": "vuepress build docs"
   },
   "keywords": [],
+  "dependencies":{
+    "vuepress": "1.8.2",
+    "vuepress-theme-reco": "1.2.2"
+},
   "author": "",
   "license": "ISC"
 }
